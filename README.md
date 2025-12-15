@@ -1,52 +1,76 @@
-Make a Tampermonky Userscript with the code!!!
+DamnBruh Mod UI (Beta v0.1)
 
+A lightweight Tampermonkey userscript that adds a client‑side UI overlay to DamnBruh.com, providing runtime controls for zoom, speed scaling, FPS visibility, and keyboard shortcuts.
 
-# DamnBruh-Mod-BETA-0.1
-Client-side UI overlay for DamnBruh.com featuring zoom control, speed scaling, FPS toggle, and draggable interface.
+This script runs entirely in your browser and requires no external libraries.
 
-FEATURE LIST
+Features
 UI & Controls
 
-Draggable Mod Menu: Fully movable on-screen menu that can be repositioned anywhere.
+Draggable Mod Menu
+Move the on-screen menu anywhere on your screen.
 
-Collapsible Sections: Expand or collapse menu categories for a cleaner interface.
+Collapsible Sections
+Expand or collapse feature categories for a cleaner layout.
 
-Always-On-Top Overlay: Menu stays visible above the game canvas.
+Always-On-Top Overlay
+Menu remains visible above the game canvas.
 
-Minimal, Lightweight Design: Dark-themed UI with low performance impact.
+Lightweight Design
+Minimal dark-themed UI with low performance impact.
 
 Visual Features
 
-Canvas Zoom Control: Smooth zoom in and out using the mouse wheel.
+Canvas Zoom Control
+Smooth zoom in and out using the mouse wheel.
 
-Live Zoom Indicator: Displays the current zoom level in real time.
+Live Zoom Indicator
+Displays the current zoom level in real time.
 
-Optional FPS Display: Toggle the visibility of the game’s FPS counter.
+Optional FPS Display
+Toggle visibility of the game’s FPS counter.
 
-Gameplay Controls
+Runtime Controls
 
-Runtime Speed Scaling: Increase or decrease in-game speed dynamically.
+Speed Scaling
+Increase or decrease in-game speed dynamically.
 
-Live Speed Indicator: Displays the current speed multiplier.
+Live Speed Indicator
+Shows the current speed multiplier.
 
-Instant Updates: Changes apply immediately without page refresh.
+Instant Updates
+Changes apply immediately without refreshing the page.
 
-Keybinds
+Default Keybinds
 
-(Default keybinds can be changed by editing the script)
+(Keybinds can be customized by editing the script)
 
-M — Toggle Mod Menu
-
-F — Toggle FPS Display
-
-+ / - — Increase / Decrease Speed
-
-Mouse Wheel — Zoom In / Out
-
+Key	Action
+M	Toggle Mod Menu
+F	Toggle FPS Display
++ / -	Increase / Decrease Speed
+Mouse Wheel	Zoom In / Out
 Technical Details
 
-Client-Side Only: Runs entirely in the browser with no server interaction.
+Client-Side Only
+Runs entirely in the browser; no server interaction.
 
-No External Dependencies: Does not load external libraries or assets.
+No External Dependencies
+Does not load third‑party libraries or assets.
 
-Automatic Initialization: Injects after page load with no manual setup required.
+Automatic Initialization
+Injects automatically after page load.
+
+Installation
+
+Install Tampermonkey in your browser.
+
+Install the userscript and paste it directly into Tampermonkey.
+
+Visit https://www.damnbruh.com
+ — the UI loads automatically.
+
+Disclaimer
+
+This project is provided for educational and experimental purposes.
+Use at your own discretion.
