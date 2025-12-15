@@ -1,3 +1,6 @@
+Make a Tampermonky Userscript with the code!!!
+
+
 # DamnBruh-Mod-BETA-0.1
 Client-side UI overlay for DamnBruh.com featuring zoom control, speed scaling, FPS toggle, and draggable interface.
 
