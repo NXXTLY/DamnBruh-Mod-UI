@@ -1,5 +1,10 @@
 DamnBruh Mod UI (Beta v0.1)
 
+
+## Screenshots
+
+![DamnBruh Mod UI Screenshot](https://github.com/NXXTLY/DamnBruh-Mod-BETA-0.1/blob/main/Screenshot.png?raw=true)
+
 A lightweight Tampermonkey userscript that adds a client‑side UI overlay to DamnBruh.com, providing runtime controls for zoom, speed scaling, FPS visibility, and keyboard shortcuts.
 
 This script runs entirely in your browser and requires no external libraries.
